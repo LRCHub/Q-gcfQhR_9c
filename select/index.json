@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Tuxedo - Do It (Official Video)",
+  "base_artist": "タキシード",
+  "createdAt": "2026-02-10T03:19:13.373575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tuxedo Rap",
+      "artist": "People Under the Stairs",
+      "has_synced": false,
+      "path": "select/01_Tuxedo_Rap_People_Under_the_Stairs.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tuxedo",
+      "artist": "The-Dream",
+      "has_synced": true,
+      "path": "select/02_Tuxedo_The-Dream.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tuxedo",
+      "artist": "Triggerfinger",
+      "has_synced": true,
+      "path": "select/03_Tuxedo_Triggerfinger.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tuxedo (feat. Tadoe)",
+      "artist": "Chief Keef feat. Tadoe",
+      "has_synced": true,
+      "path": "select/04_Tuxedo_(feat._Tadoe)_Chief_Keef_feat._Tadoe.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tuxedo (feat. Tadoe)",
+      "artist": "Chief Keef",
+      "has_synced": true,
+      "path": "select/05_Tuxedo_(feat._Tadoe)_Chief_Keef.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tuxedo Junction",
+      "artist": "The Manhattan Transfer",
+      "has_synced": true,
+      "path": "select/06_Tuxedo_Junction_The_Manhattan_Transfer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tuxedo Junction",
+      "artist": "Manhattan Transfer",
+      "has_synced": false,
+      "path": "select/07_Tuxedo_Junction_Manhattan_Transfer.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tuxedo Junction",
+      "artist": "Joe Jackson",
+      "has_synced": false,
+      "path": "select/08_Tuxedo_Junction_Joe_Jackson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "01  Tuxedo Junction",
+      "artist": "Manhattan Transfer",
+      "has_synced": true,
+      "path": "select/09_01_Tuxedo_Junction_Manhattan_Transfer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Awesome (feat. Blaq Tuxedo)",
+      "artist": "Tank feat. Blaq Tuxedo",
+      "has_synced": false,
+      "path": "select/10_Awesome_(feat._Blaq_Tuxedo)_Tank_feat._Blaq_Tuxedo.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Awesome (feat. Blaq Tuxedo)",
+      "artist": "Tank",
+      "has_synced": false,
+      "path": "select/11_Awesome_(feat._Blaq_Tuxedo)_Tank.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tears On My Tuxedo",
+      "artist": "Robin Thicke",
+      "has_synced": true,
+      "path": "select/12_Tears_On_My_Tuxedo_Robin_Thicke.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tuxedo Junction",
+      "artist": "Frankie Avalon",
+      "has_synced": false,
+      "path": "select/13_Tuxedo_Junction_Frankie_Avalon.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Do It",
+      "artist": "Tuxedo",
+      "has_synced": false,
+      "path": "select/pl_01_Do_It_Tuxedo.txt"
+    }
+  ]
+}
